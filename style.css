@@ -1,0 +1,86 @@
+.nav-link{
+    color: white;
+    }
+    .navbar-brand{
+    color: white;
+    }
+    #tickets{
+        color: green;
+    
+    }
+    #tickets:hover{
+        color: greenyellow;
+    }
+    #bottit:hover{ 
+        color: greenyellow;
+
+    }
+
+    #row-nav{
+        padding-right: 5rem;
+    
+    }
+        .carousel-caption {
+        
+        right: 100px;
+        left: auto;
+        bottom: 100px;
+        width: 500px;
+        z-index: 10;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        color: white;    
+        text-align: right;
+      }
+    
+
+    .row{
+      text-align: center;
+    }
+    
+    .card{
+    
+        margin: auto;
+        height: 650px;
+        text-align: left;
+    }
+    
+    #columnaTexto{
+        background-color: rgb(50, 52, 56);
+        text-align: left;
+        color: white;
+        padding: 20px;
+    }
+    .btn.btn-primary{
+    background-color: #9CCC65;
+    border: #9CCC65;
+    color: white;
+    }
+    
+    footer{   
+       display: flex;
+       justify-content: space-around;  
+       
+       background: #004878;
+       height: 80px;
+       text-align: center;
+       color: white;
+    }
+    
+    #texto-footer{
+        margin-top: 15px;
+        
+       
+    }
+    
+    #texto-footer1{
+        margin-top: 25px;
+        
+       
+    }
+    
+    #texto-footer:hover{
+        color: greenyellow;
+        
+       
+    }
