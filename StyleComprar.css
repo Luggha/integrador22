@@ -1,0 +1,136 @@
+.nav-link{
+    color: white;
+    }
+    .navbar-brand{
+    color: white;
+    }
+    #tickets{
+        color: green;
+    
+    }
+    #tickets:hover{
+        color: greenyellow;
+    }
+    #bottit:hover{ 
+        color: greenyellow;
+
+    }
+
+    #row-nav{
+        padding-right: 5rem;
+    
+    }
+  
+
+    .row{
+      text-align: center;
+    }
+    
+    .card{
+    
+        margin: auto;
+        height: 200px;
+        text-align: left;
+        text-align: center;
+    }
+    
+
+    .row{
+    
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 10px;
+    }
+    .card {
+        text-align: center;
+        
+    }
+    .col{
+        padding: 0;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .incompleto {
+        color: red;
+        font-size: x-small;
+        margin-left: 8px;
+        margin-bottom: 0;
+        padding: 0;
+    }
+    .title-ventas{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .col-form{
+        margin-right: 8px;
+        margin-left: 8px;
+    }
+    
+    .form-large .form-control{
+        margin-right: 18px;
+        margin-left: 8px;
+    
+    }
+    .form-large{
+        padding-left: 2px;
+        padding-right: 14px;
+    }
+    
+    .col h6{
+        padding-left: 10px;
+    }
+    .total{
+        margin: 20px 0;
+        background-color: #cce5ff;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .btn-secondary{
+        background-color: #97c93e;
+        border-color: #97c93e;
+        color: rgb(255, 255, 255);
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .btn-danger{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    footer{   
+        display: flex;
+        justify-content: space-around;  
+        
+        background: #004878;
+        height: 80px;
+        text-align: center;
+        color: white;
+     }
+     
+     #texto-footer{
+         margin-top: 15px;
+         
+        
+     }
+     
+     #texto-footer1{
+         margin-top: 25px;
+         
+        
+     }
+     
+     #texto-footer:hover{
+         color: greenyellow;
+         
+        
+     }
+     /* This is modifying the btn-primary colors but you could create your own .btn-something class as well*/
+/* .btn-primary {
+    color: #fff;
+    background-color: #0495c9;
+    border-color: #357ebd; set the color you want here */
+
+/* .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #00b3db;
+    border-color: #285e8e; /*set the color you want here*/
